@@ -1,0 +1,16 @@
+#!/bin/bash
+cd "$(dirname "0")"
+
+# Fetch user data
+python fetchJson.py 'http://etcweb.princeton.edu/webfeeds/events/?fmt=json' 'ppec'
+python fetchRss.py 'http://events.mit.edu/rss/index.html?fulltext=&andor=and&sponsors%3A0=&_rss=Create+RSS+Feed' 'mit'
+# Convert data from different formats into a standardized format
+python parseData.py
+# Allow the user to manually tag untagged groups
+python correctData.py
+# Preform some operations on the data to make it more palpable for machines
+python convertData.py
+# Perform Learning Algorithms on it
+python learnData.py
+# Analyze performace
+

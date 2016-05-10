@@ -1,0 +1,1023 @@
+(lp0
+(istdEvent
+stdEvent
+p1
+(dp2
+S'category'
+p3
+V5
+p4
+sS'name'
+p5
+VEncounter : Weekly Princeton Faith and Action Event
+p6
+sS'description'
+p7
+V
+p8
+sba(istdEvent
+stdEvent
+p9
+(dp10
+g3
+V5
+p11
+sg5
+VEncounter : Weekly Princeton Faith and Action Event
+p12
+sg7
+g8
+sba(istdEvent
+stdEvent
+p13
+(dp14
+g3
+I7
+sg5
+VHealthy Aging Resouces Fair : Human Resources Fair
+p15
+sg7
+g8
+sba(istdEvent
+stdEvent
+p16
+(dp17
+g3
+I1
+sg5
+VORFE Department Colloquium : Weekly Seminar
+p18
+sg7
+g8
+sba(istdEvent
+stdEvent
+p19
+(dp20
+g3
+V2
+p21
+sg5
+VNew Jersey Symphony Orchestra : with Augustin Hadelich, violin
+p22
+sg7
+g8
+sba(istdEvent
+stdEvent
+p23
+(dp24
+g3
+V2
+p25
+sg5
+VNJSO Pre Concert Lecture : with Augustin Hadelich, violin
+p26
+sg7
+g8
+sba(istdEvent
+stdEvent
+p27
+(dp28
+g3
+V2
+p29
+sg5
+VPrinceton Symphony Orchestra : Passion and  Affection
+p30
+sg7
+g8
+sba(istdEvent
+stdEvent
+p31
+(dp32
+g3
+V2
+p33
+sg5
+VPSO Pre Concert Lecture : Passion and  Affection
+p34
+sg7
+g8
+sba(istdEvent
+stdEvent
+p35
+(dp36
+g3
+V2
+p37
+sg5
+VPrinceton Pro Musica : 
+p38
+sg7
+g8
+sba(istdEvent
+stdEvent
+p39
+(dp40
+g3
+V2
+p41
+sg5
+VPre Concert Lecture : 
+p42
+sg7
+g8
+sba(istdEvent
+stdEvent
+p43
+(dp44
+g3
+V3
+p45
+sg5
+VOTF @ ECAC/IC4A  (HOME) : Outdoor Track @ ECAC/IC4A (Home)
+p46
+sg7
+g8
+sba(istdEvent
+stdEvent
+p47
+(dp48
+g3
+V6
+p49
+sg5
+VMEDITATION : Join us for Meditation at 12pm on Thursday in Green Hall 1-C-6
+p50
+sg7
+VAll are welcome each week for a one hour meditation.  A light lunch is provided.
+p51
+sba(istdEvent
+stdEvent
+p52
+(dp53
+g3
+V5
+p54
+sg5
+VECUMENICAL WORSHIP SERVICE : All are welcome each Sunday at 11am in the University Chapel for the ecumenical worship service.
+p55
+sg7
+VAll are welcome to an Ecumenical Chapel Worship Service, led by the dean and the acting associate dean of the chapel, that draws students, faculty, staff, and townspeople together to hear God&amp;apos;s word, to sing God&amp;apos;s praise, to lift up the University in prayer.
+p56
+sba(istdEvent
+stdEvent
+p57
+(dp58
+g3
+V5
+p59
+sg5
+VECUMENICAL WORSHIP SERVICE : All are welcome each Sunday at 11am in the University Chapel for the ecumenical worship service.
+p60
+sg7
+VAll are welcome to an Ecumenical Chapel Worship Service, led by the dean and the acting associate dean of the chapel, that draws students, faculty, staff, and townspeople together to hear God&amp;apos;s word, to sing God&amp;apos;s praise, to lift up the University in prayer.
+p61
+sba(istdEvent
+stdEvent
+p62
+(dp63
+g3
+V6
+p64
+sg5
+VBIBLE STUDY WITH HALLELUJAH : Princeton University students are invited to Bible Study with Hallelujah Church @ Princeton at 5:15pm in Green Hall
+p65
+sg7
+VPrinceton University students are invited to Bible Study with Hallelujah Church @ Princeton at 5:15pm in Green Hall 1-C-6.  A light meal is served at 5pm in advance of the bible study.
+p66
+sba(istdEvent
+stdEvent
+p67
+(dp68
+g3
+V6
+p69
+sg5
+VWOMEN&amp;apos;S MEDITATION : Women&amp;apos;s Meditation for Princeton University students, staff, faculty in Green Hall.
+p70
+sg7
+V Open to all Princeton University women students, staff, faculty.   Join us at 12pm in Green Hall Library 1-C-6.  A healthy lunch is served.  Sponsored by ORL and UHS.
+p71
+sba(istdEvent
+stdEvent
+p72
+(dp73
+g3
+V1
+p74
+sg5
+VAdam Sobel Seminar : Spring 2016 Seminar Series
+p75
+sg7
+VAdam Sobel, Columbia University.  &amp;quot;Understanding deep convection by parameterizing large-scale dynamics&amp;quot;
+p76
+sba(istdEvent
+stdEvent
+p77
+(dp78
+g3
+V5
+p79
+sg5
+VJUMMAH PRAYER : Join us for Jummah (Friday) Prayer at 1:15pm in Green Hall 1-C-4C
+p80
+sg7
+VJummah Prayer on Friday at 1:15pm in Green Hall 1-C-4C.  Questions?  Contact Imam Sohaib Sultan - ssultan@princeton.edu
+p81
+sba(istdEvent
+stdEvent
+p82
+(dp83
+g3
+V5
+p84
+sg5
+VJUMMAH PRAYER : Join us for Jummah (Friday) Prayer at 1:15pm in Green Hall 1-C-4C
+p85
+sg7
+VJummah Prayer on Friday at 1:15pm in Green Hall 1-C-4C.  Questions?  Contact Imam Sohaib Sultan - ssultan@princeton.edu
+p86
+sba(istdEvent
+stdEvent
+p87
+(dp88
+g3
+V1
+p89
+sg5
+VDead Sea and Salar de Uyuni : World&amp;apos;s Greatest Geological Wonders Film Series
+p90
+sg7
+VAbout the course:  36 Sites in 18 hours.  By Prof. Michael Wysession,Washington University in St. Louis.  The Teaching Co¿s Great Courses #1712.  DVD set available @ Lewis Library QE26.3 W973 2013. Questions? lfdeis@princeton.edu or 258-3235
+p91
+sba(istdEvent
+stdEvent
+p92
+(dp93
+g3
+V1
+p94
+sg5
+VNamib/Kalahari Deserts and Siwa Oasis : World&amp;apos;s Greatest Geological Wonders Film Series
+p95
+sg7
+VAbout the course:  36 Sites in 18 hours.  By Prof. Michael Wysession,Washington University in St. Louis.  The Teaching Co¿s Great Courses #1712.  DVD set available @ Lewis Library QE26.3 W973 2013. Questions? lfdeis@princeton.edu or 258-3235
+p96
+sba(istdEvent
+stdEvent
+p97
+(dp98
+g3
+V8
+p99
+sg5
+VPRINCETON SWING CLUB : Princeton Swing Club lessons and dancing practice sessions
+p100
+sg7
+VWeekly swing dancing lessons:  two sessions, beginners and intermediate one hour long classes scheduled subsequently, followed by open dancing.
+p101
+sba(istdEvent
+stdEvent
+p102
+(dp103
+g3
+V8
+p104
+sg5
+VPRINCETON UNIVERSITY SWING CLUB : Princeton University Swing Club lessons and dancing practice sessions
+p105
+sg7
+VWeekly swing dancing lessons:  two sessions, beginners and intermediate one hour long classes scheduled subsequently, followed by open dancing.
+p106
+sba(istdEvent
+stdEvent
+p107
+(dp108
+g3
+V1
+p109
+sg5
+VMARY PITCAIRN KEATING LECTURE : Friends Annual Lecture
+p110
+sg7
+VAlice Cooney Frelinghuysen, Anthony W. and Lulu C. Wang Curator of American Decorative Arts at the Metropolitan Museum of Art and Princeton Class of 1976, will share insights into the American Arts and Crafts movement gleaned from a career as a curator and through reflections on her interactions with the Princeton University Art Museum¿s collections and exhibitions. A reception will follow in the Art Museum.
+p111
+sba(istdEvent
+stdEvent
+p112
+(dp113
+g3
+V1
+p114
+sg5
+VJAMES MADISON PROGRAM CONFERENCE : Abraham Lincoln and Statesmanship: Reconstructing the Law of the Constitution
+p115
+sg7
+V      The Robert J. Giuffra &amp;apos;82 Annual Conference      Keynote Address by Allen C. Guelzo, Henry R. Luce III Professor      of the Civil War Era, Director of Civil War Era Studies,      Gettysburg College      Cosponsored by the James Madison Program in American Ideals and     Institutions at Princeton University and the Association for the      Study of Free Institutions at Texas Tech University. Funded by      the Bouton Law Lecture Fund
+p116
+sba(istdEvent
+stdEvent
+p117
+(dp118
+g3
+V1
+p119
+sg5
+VJAMES MADISON PROGRAM CONFERENCE : Abraham Lincoln and Statesmanship: Reconstructing the Law of the Constitution
+p120
+sg7
+V      The Robert J. Giuffra &amp;apos;82 Annual Conference      Keynote Address by Allen C. Guelzo, Henry R. Luce III Professor      of the Civil War Era, Director of Civil War Era Studies,      Gettysburg College      Cosponsored by the James Madison Program in American Ideals and     Institutions at Princeton University and the Association for the      Study of Free Institutions at Texas Tech University. Funded by      the Bouton Law Lecture Fund
+p121
+sba(istdEvent
+stdEvent
+p122
+(dp123
+g3
+I7
+sg5
+VAll-Nighter with Anna Aronson : All-Nighter
+p124
+sg7
+g8
+sba(istdEvent
+stdEvent
+p125
+(dp126
+g3
+I7
+sg5
+VLobster Club Event : Who is Matt Riechman-Bennett, and what happened to him? Or, what can I do to live a more meaningful life?
+p127
+sg7
+g8
+sba(istdEvent
+stdEvent
+p128
+(dp129
+g3
+I9
+sg5
+VBuilding a Golden India : Association of South Asians at Princeton
+p130
+sg7
+VLecture by Shail Kumar, an author and administrator at University of California at Berkeley, on how to unleash India&amp;apos;s vast potential and transform its higher education system.  Light refreshments will be served after the talk.
+p131
+sba(istdEvent
+stdEvent
+p132
+(dp133
+g3
+V1
+p134
+sg5
+VFAMILY DAY : Imagine the Possibilities!
+p135
+sg7
+VEnjoy a day of imagination and discovery for the whole family, with art projects, stories, games, scavenger hunts, performances, and refreshments.
+p136
+sba(istdEvent
+stdEvent
+p137
+(dp138
+g3
+I5
+sg5
+VACEE : Andlinger Center for Energy and the Environment Building Opening Celebration and Symposium
+p139
+sg7
+g8
+sba(istdEvent
+stdEvent
+p140
+(dp141
+g3
+I5
+sg5
+VACEE : Andlinger Center for Energy and the Environment Building Opening Celebration and Symposium
+p142
+sg7
+g8
+sba(istdEvent
+stdEvent
+p143
+(dp144
+g3
+I5
+sg5
+VACEE : Andlinger Center for Energy and the Environment Building Opening Celebration and Symposium
+p145
+sg7
+g8
+sba(istdEvent
+stdEvent
+p146
+(dp147
+g3
+I1
+sg5
+VEntrepreneurial Negotiations: The MIT Way
+p148
+sg7
+VEntrepreneurial Negotiations: The MIT Way (April 26, 2016 - June 7, 2016) \u000aRegistration closes 5/3/2016. \u000a\u000aThis Digital Programs course is led by MIT's renowned negotiation expert, Professor Lawrence Susskind, who also cofounded the inter-university Program on Negotiation at Harvard Law School. Participants in the program will practice negotiation skills via simulations, role-plays, case studies, and peer-provided feedback. They will emerge with a toolkit of negotiation techniques that will prepare them to join the MIT entrepreneurial success story.\u000a\u000aAt the end of the program you will be able to:\u000a\u000a- Protect and increase the value of your ideas\u000a- Deal with ego and the need to build trust in relationships\u000a- Navigate the bargaining process when economic uncertainty and technical complexity are at stake\u000a- Master the MIT way of winning at entrepreneurial negotiations
+p149
+sba(istdEvent
+stdEvent
+p150
+(dp151
+g3
+I1
+sg5
+VInternet of Things: Roadmap to a Connected World
+p152
+sg7
+VInternet of Things: Roadmap to a Connected World  (April 12, 2016 -May 24, 2016) \u000aRegistration closes 4/19/2016. \u000a\u000aThis Digital Programs course is taught by a team of world-renowned researchers with expertise in the architectures and applications of IoT,the Internet of Things (IoT): Roadmap to a Connected World course introduces professionals to both the broad range of IoT technologies and the most recent developments in the space. Participants will:  \u000a\u000a- Discover key IoT concepts including identification, sensors, localization, wireless protocols, data storage and security;\u000a- Explore IoT technologies, architectures, standards, and regulation;\u000a- Realize the value created by collecting, communicating, coordinating, and leveraging the data from connected devices;\u000a- Examine technological developments that will likely shape the industrial landscape in the future;\u000a- Understand how to develop and implement your own IoT technologies, solutions, and applications.\u000a\u000aProfessors include Sanjay Sarma, Daniela Rus, Director of the Computer Science and Artificial Intelligence Laboratory (CSAIL), as well as other CSAIL researchers, and industry experts such as Tim Berners-Lee, inventor of the World Wide Web and founder of the World Wide Web World Wide Web Consortium (W3C).  Also presenting are Carlo Ratti, director, MIT SENSEable City Lab and Joseph Paradiso, co-director, Things That Think Consortium, MIT Media Lab.
+p153
+sba(istdEvent
+stdEvent
+p154
+(dp155
+g3
+I9
+sg5
+VSTAGE Seminar
+p156
+sg7
+V"Integral Models for Shimura Varieties of Abelian Type"\u000a\u000aThis purpose of this talk is to give an introduction to the existence of reasonable integral models for Shimura varieties of abelian type. I will mainly focus on examples, and mostly restrict our attention to Shimura varieties of Hodge type. Given the technical nature of the subject, several theorems will be stated imprecisely, but most of the details could be found in chapter 2 of Kisin's paper "Integral models for Shimura varieties of abelian type."
+p157
+sba(istdEvent
+stdEvent
+p158
+(dp159
+g3
+I1
+sg5
+VPhysics Ph.D. Thesis Defense:  Samuel Johnson
+p160
+sg7
+VYou are cordially invited to attend the following thesis defense.\u000a\u000a''Enhanced gauge symmetry in 6D F-theory''\u000aPresented by Samuel Johnson\u000a\u000aDate: Tuesday, May 10, 2016\u000aTime: 9:00 AM\u000aLocation: 6C-442\u000a\u000aCommittee: Prof. Washington Taylor IV, , Prof. Barton Zwiebach, Prof. Senthil Todadri\u000a\u000aBest of luck to Samuel!
+p161
+sba(istdEvent
+stdEvent
+p162
+(dp163
+g3
+I4
+sg5
+VEllen Waitzkin Photographic Exhibit: "At the Beach: Color Symmetries"
+p164
+sg7
+VEllen Waitzkin's photography exhibit "At the Beach: Color Symmetries" will be hanging in our exhibit space on the 3rd floor of Building 6 until next summer.  We are delighted to have the first relatively complete exhibit of the work.\u000a\u000a"At the Beach: Color Symmetries" is the 7th show in the CTP's continuing series of photography shows that began when we moved to the newly renovated space in the Virgil Elings Center for Theoretical Physics in 2007.  Previous artists include John Chervinsky, Cary Wolinsky, Lori Nix, Karen Rosenthal, Sam Jaffe and Johanna Warwick.\u000a\u000aThis show is supported by a grant from the MIT Council for the Arts and CTP faculty funds.
+p165
+sba(istdEvent
+stdEvent
+p166
+(dp167
+g3
+I4
+sg5
+VExhibition "Gothicness. On the Strangeness of Rib Details"
+p168
+sg7
+VGothicness is an exhibition curated for the Wolk Gallery by Brandon Clifford that examines the ubiquitous element of Gothic architecture, the rib. In the tradition of John Ruskin's analysis of the Gothic, Clifford isolates a series of peculiar moments of transition from functional to rhetorical ribs that hold resonance today - Pierness, Springness, and Vaultness. In doing so, he illuminates the strangeness of Gothic rib details, examining the possibilities, potentials, and peculiar moments that parallel contemporary digital practice. \u000a\u000aBrandon Clifford is the Belluschi Lecturer in the MIT Department of Architecture and Principal of Matter Design, Boston.
+p169
+sba(istdEvent
+stdEvent
+p170
+(dp171
+g3
+I5
+sg5
+VSAA Ceramics Sale
+p172
+sg7
+VJoin us for the semi-annual Ceramics Sale in the MIT Memorial Lobby in Building 10. \u000a\u000aThe Ceramics Sale features the work of students from the Student Art Association, ranging from incense burners to vases, serving plates to wall decor.
+p173
+sba(istdEvent
+stdEvent
+p174
+(dp175
+g3
+I4
+sg5
+VExhibition "Gothicness. On the Strangeness of Rib Details"
+p176
+sg7
+VGothicness is an exhibition curated for the Wolk Gallery by Brandon Clifford that examines the ubiquitous element of Gothic architecture, the rib. In the tradition of John Ruskin's analysis of the Gothic, Clifford isolates a series of peculiar moments of transition from functional to rhetorical ribs that hold resonance today - Pierness, Springness, and Vaultness. In doing so, he illuminates the strangeness of Gothic rib details, examining the possibilities, potentials, and peculiar moments that parallel contemporary digital practice. \u000a\u000aBrandon Clifford is the Belluschi Lecturer in the MIT Department of Architecture and Principal of Matter Design, Boston.
+p177
+sba(istdEvent
+stdEvent
+p178
+(dp179
+g3
+I8
+sg5
+VThe Great Stride: MIT Moves to Cambridge
+p180
+sg7
+VMIT was one of the initial occupants of Boston's Back Bay in the 1860s, but within 40 years there was little vacant acreage for the maturing Institute to acquire in the rapidly developing neighborhood. By the early 20th century MIT began to explore in earnest for a new site. This exhibit celebrates MIT's move in 1916 across the Charles River to its current location in Cambridge. The Great Stride illuminates the people who envisioned, labored, and provided the resources to build the "New Technology" and celebrates the three days of festivities and dedication in June of 1916 which hailed the new campus. \u000a\u000aMaihaugen Gallery Hours: Monday-Friday, 10 AM-4 PM
+p181
+sba(istdEvent
+stdEvent
+p182
+(dp183
+g3
+I1
+sg5
+VPhysics Ph.D. Thesis Defense:  Yichen Shen
+p184
+sg7
+VYou are cordially invited to attend the following thesis defense.\u000a\u000a''Novel Angular and Frequency Manipulation of Light in Nano-scaled Dielectric Photonic Systems'''\u000aPresented by Yichen Shen\u000a\u000aDate: Tuesday, May 10, 2016\u000aTime: 10:00 AM\u000aLocation: 4-331 (Duboc Room)\u000a\u000aCommittee: Prof. Marin Soljacic, , Prof. John Joannopoulos, Prof. Martin Zwierlein\u000a\u000aBest of luck to Yichen!
+p185
+sba(istdEvent
+stdEvent
+p186
+(dp187
+g3
+I7
+sg5
+V10AM Undergraduate Admissions Information Session (followed by a campus tour)
+p188
+sg7
+VYou should register for this session and tour by clicking the registration button at the bottom of the page.  (If you are viewing this on MIT's events calendar, please <a href="http://events.mit.edu/scripts/monthly_ext.pl?groupid=2072&amp;location=http://infocal.mitadmissions.org" target="_blank">navigate to the MIT Admissions website to register</a>.)\u000a\u000aMIT Undergraduate Admissions Information Sessions cover a variety of topics including academics, campus life and the admissions and financial aid processes. Immediately following the Undergraduate Admissions Information Session is a student led Campus Tour. Groups over 10 people need to make special reservations and should complete <a href="http://web.mit.edu/institute-events/events/privateform.html">the group request form</a>.
+p189
+sba(istdEvent
+stdEvent
+p190
+(dp191
+g3
+I4
+sg5
+VHolography: Dimensions of Light
+p192
+sg7
+VView holograms from the Museum's collections, the largest in the world. Discover how holograms are made at interactive stations designed to illuminate this dynamic photographic technique.
+p193
+sba(istdEvent
+stdEvent
+p194
+(dp195
+g3
+I5
+sg5
+VMIT Glass Lab Spring Sale
+p196
+sg7
+VThe Spring Sale in Lobby 10 is a venue for students at all levels as well as instructors in the Glass Lab to sell their work. A portion of the proceeds from these sales funds the Lab's ongoing activities. \u000a\u000aAccepted forms of payment are cash and check.
+p197
+sba(istdEvent
+stdEvent
+p198
+(dp199
+g3
+I4
+sg5
+VProjects and Prototypes: MIT Student Work
+p200
+sg7
+VThis exhibition features inventions and kinetic sculpture by MIT students, most of which were created as part of students' coursework. Chosen from submissions by a variety of MIT departments and labs, these projects exemplify MIT's legendary values of creativity, ingenuity and practical problem solving.
+p201
+sba(istdEvent
+stdEvent
+p202
+(dp203
+g3
+I4
+sg5
+VImagining New Technology: Building MIT in Cambridge
+p204
+sg7
+VMIT's Centenary exhibition (March 1 - Sept. 6) includes rarely seen architectural drawings, photographs, interviews and artifacts showing the dramatic impact that the design and building of MIT has had on the physical, economic and social development of Cambridge.\u000a\u000aDownload free of charge 3D plans for the community built model at: 3dcommunitymap.mit.edu
+p205
+sba(istdEvent
+stdEvent
+p206
+(dp207
+g3
+I4
+sg5
+VSampling MIT
+p208
+sg7
+VUnique exhibition of changing displays connecting visitors with a wide range of current MIT research.
+p209
+sba(istdEvent
+stdEvent
+p210
+(dp211
+g3
+I9
+sg5
+VRobots and Beyond: Exploring Artificial Intelligence at MIT
+p212
+sg7
+VA multimedia excursion into the history of artificial intelligence at MIT; includes Kismet, the world's first sociable robot designed by MIT Professor Cynthia Breazeal.
+p213
+sba(istdEvent
+stdEvent
+p214
+(dp215
+g3
+I5
+sg5
+VGestural Engineering: The Sculpture of Arthur Ganson
+p216
+sg7
+VIngenious, philosophical, and witty kinetic sculptures that are beloved by all who see them.
+p217
+sba(istdEvent
+stdEvent
+p218
+(dp219
+g3
+I5
+sg5
+VCampus Tour
+p220
+sg7
+VStudent Led Campus Tours are approximately 90 minutes long and provide insight into the life of Undergraduate Students at MIT.  The tours are geared toward prospective students, but can be enjoyed by everyone.\u000a\u000aPlease note that campus tours do not visit laboratories, living groups or buildings under construction. \u000a\u000aGroups over 10 people need to make special reservations by filling out the request form on :  http://web.mit.edu/institute-events/events/tour.html
+p221
+sba(istdEvent
+stdEvent
+p222
+(dp223
+g3
+I2
+sg5
+VBarry Tashian of The Remains Interviewed Live on WMBR's Lost & Found Program
+p224
+sg7
+VSinger-songwriter-guitarist <a href="http://www.tashianmusic.com">Barry Tashian</a> of <a href="http://www.theremains.com">The Remains</a> is scheduled to be interviewed by telephone by host Eli Polonsky and guest DJ former "Lost & Found" host "Mighty Slim" at 1:00 PM!\u000a\u000aThe Remains formed in 1964 while attending Boston University, and became a popular live Rock'n'Roll act in Boston and New England. In 1965 they appeared on The Ed Sullivan Show and Hullabaloo. In 1966, The Remains were the opening act for The Beatles on their final tour, but the band broke up shortly after. \u000a\u000aBarry's prolific work as a sideman included Gram Parsons' first album in 1973, and as a member of Emmylou Harris' band through the '80s. Barry and his wife Holly, as Barry & Holly Tashian, have also enjoyed a successful career as an award-winning country, folk and bluegrass duo since 1972.\u000a\u000aSought after as one of the pioneering "garage rock" bands of the '60s, The Remains began occasionally reuniting to perform in the '90s through the present, and will be performing one of their rare reunion concerts with The Lyres, The Cal Cali Band, and Muck & The Mires at <a href="https://www.facebook.com/ONCEsomerville">ONCE Ballroom</a> in Somerville on Friday, May 13!
+p225
+sba(istdEvent
+stdEvent
+p226
+(dp227
+g3
+I2
+sg5
+VMeridian Singers Rehearsal
+p228
+sg7
+VMeridian Singers, directed by Todd Beckham, is an a cappella chorus open to all in the MIT community. The group rehearses Tuesdays at the noon hour, hence the name "Meridian."\u000a\u000aOur Spring repertoire includes choral music of Johann Sebastian Bach and his contemporaries. Future concerts will present varied selections from early music to contemporary pieces and from various countries and cultures. \u000a\u000aWe are actively seeking new members in all parts (especially altos) for our late April/early May concerts. One concert will be at noon on a weekday, the other at 6 pm on a different day. Email meridians-www@mit.edu for more information.
+p229
+sba(istdEvent
+stdEvent
+p230
+(dp231
+g3
+I8
+sg5
+VNegotiations in the Workplace
+p232
+sg7
+VLike many young professionals, you know that you need to be a successful negotiator to further your career goals, and would like to develop your skills in this area. In this workshop, you will be introduced to the core concepts of negotiation which will help you become a more effective self-advocate.
+p233
+sba(istdEvent
+stdEvent
+p234
+(dp235
+g3
+I2
+sg5
+VList Projects: Narrative Color
+p236
+sg7
+VList Projects: Narrative Color considers the relationship between color and narrative in a small selection of artists films and videos made since 1970. The works contents and structures are diverse, ranging from investigations into capital and ideology in postwar Germany to Hollywood melodrama and contemporary fashion. However, each work uses a non-traditional narrative structure to present a sequence of events or actions, for which color both informs and is informed by the respective works narrative. Furthermore, speech spoken on-screen or by an off-screen narrator is fundamental to their treatments of color. Significantly, these attributes distinguish them from the legacy of artists films since the 1950s, which largely treat color as something that exists independent of language.  The exhibition features KP Brehmer, Bernadette Corporation, Mareike Bernien and Kerstin Schroedinger, Derek Jarman, and Bruce and Norman Yonemoto.
+p237
+sba(istdEvent
+stdEvent
+p238
+(dp239
+g3
+I6
+sg5
+VMass
+p240
+sg7
+VCatholic Mass
+p241
+sba(istdEvent
+stdEvent
+p242
+(dp243
+g3
+I9
+sg5
+VPlanetary Lunch Colloquium Series (PlCS): Matt Webber, MIT
+p244
+sg7
+VThe MIT Planetary Lunch Colloquium Series [PlCS] is a weekly seminar series organized within the EAPS department. Colloquia topics span the range of research interests of the department's planetary sciences research program. The seminars usually take place on Tuesdays in 54-517 from 12:30-1:30 pm unless otherwise noted (term-time only). Speakers include members of the MIT community and visitors. Talks are intended to appeal to graduate students, postdocs, research scientists, and faculty with a background in planetary science. A light lunch is provided. For questions contact Isabel Lee (shingpei@mit.edu).\u000a\u000a<a href="http://events.mit.edu/rss/index.html???">EVENT WEBSITE</a>
+p245
+sba(istdEvent
+stdEvent
+p246
+(dp247
+g3
+I9
+sg5
+VBemis DUSP Speaker Series - Judge Joel Ngugi
+p248
+sg7
+VJoel Ngugi is currently Judge in the High Court of Kenya. His research interests include the role of law in economic development, the role of governments in market regulation and wealth allocation, and legal reforms in transition and developing economies. Professor Ngugi practiced law with the Boston law firm of Foley Hoag, LLP, as a corporate and international litigation associate. At Harvard University, he was one of two recipients of the John Gallup Laylin Prize in International Law in 2002. Material from his webpage at the University of Washington, Seattle, Washington.
+p249
+sba(istdEvent
+stdEvent
+p250
+(dp251
+g3
+I9
+sg5
+VPhysical Mathematics Seminar
+p252
+sg7
+VTITLE:  Freezing of solutions and coloidal suspensions
+p253
+sba(istdEvent
+stdEvent
+p254
+(dp255
+g3
+I1
+sg5
+VBroad Terms and Organizational Codes
+p256
+sg7
+Vtbd
+p257
+sba(istdEvent
+stdEvent
+p258
+(dp259
+g3
+I5
+sg5
+VCampus Tour
+p260
+sg7
+VStudent Led Campus Tours are approximately 90 minutes long and provide insight into the life of Undergraduate Students at MIT.  The tours are geared toward prospective students, but can be enjoyed by everyone.\u000a\u000aPlease note that campus tours do not visit laboratories, living groups or buildings under construction. \u000a\u000aGroups over 10 people need to make special reservations by filling out the request form on :  http://web.mit.edu/institute-events/events/tour.html
+p261
+sba(istdEvent
+stdEvent
+p262
+(dp263
+g3
+I5
+sg5
+V3PM Campus Tour Only (No Information Session)
+p264
+sg7
+V<b>Please note that this listing is for a campus tour only. Admissions Information Sessions are only available at 10AM.</b>\u000a\u000aThe student-led campus tour lasts approximately 75-90 minutes, and takes visitors around to various parts of campus. Please note that campus tours do not visit laboratories, living groups or buildings under construction.  Campus tours depart from Lobby 7. You can register for this tour by clicking the registration button at the bottom of the page.  (If you are viewing this on MIT's events calendar, please <a href="http://events.mit.edu/scripts/monthly_ext.pl?groupid=2072&amp;location=http://infocal.mitadmissions.org" target="_blank">navigate to the MIT Admissions website to register</a>.)\u000a\u000aGroups over 10 people need to make special reservations and should complete <a href="http://web.mit.edu/institute-events/events/privateform.html">the group request form</a>.
+p265
+sba(istdEvent
+stdEvent
+p266
+(dp267
+g3
+I7
+sg5
+VMIT  Puppy Lab:  Meet the new therapy dogs of MIT!
+p268
+sg7
+VFeeling stressed with final papers and exams coming up?  Dogs are the answer!  Take a break and come by and hug a pouch. Sponsored by the Mind and Heart Initiative
+p269
+sba(istdEvent
+stdEvent
+p270
+(dp271
+g3
+I9
+sg5
+VAging Brain Seminar Series: Dr. David Bennett
+p272
+sg7
+VComing Soon!
+p273
+sba(istdEvent
+stdEvent
+p274
+(dp275
+g3
+I9
+sg5
+VGAS TURBINE LAB SEMINAR
+p276
+sg7
+VTOPIC: Fluid Mechanics of Ported Shroud Centrifugal Compressor for Vehicular Turbocharger Applications\u000a  \u000a4:00-5:00 Lecture, 3:45 Refreshments
+p277
+sba(istdEvent
+stdEvent
+p278
+(dp279
+g3
+I7
+sg5
+VMIT Awards Convocation
+p280
+sg7
+VThe MIT Awards Convocation honors MIT students, faculty, staff, and community members who have made outstanding contributions to the shared life of the Institute.\u000a\u000aThe awards recognize many of the qualities we hold dear at MIT: excellence in academics and teaching, public service, community building, achievements in the arts and athletics, leadership, and entrepreneurship.
+p281
+sba(istdEvent
+stdEvent
+p282
+(dp283
+g3
+I9
+sg5
+VThe Costs of Sovereign Default: Evidence from Argentina
+p284
+sg7
+Vtbd
+p285
+sba(istdEvent
+stdEvent
+p286
+(dp287
+g3
+I1
+sg5
+Voffice-hours for mit e-club & seminar EC.075 on tech start-ups
+p288
+sg7
+Vstudent consultations & otr mit private founders' office-hours sessions for 2-hours just prior to the 6pm e-club meeting in 56-114, followed at 7pm by our 6-credit tech start-up seminar EC.075 up at the edgerton center, room 4-402 ...
+p289
+sba(istdEvent
+stdEvent
+p290
+(dp291
+g3
+I9
+sg5
+VMIT Number Theory Seminar
+p292
+sg7
+V"Rationality problems"\u000a\u000aAbstract: I will discuss recent advances in the study of rationality properties of higher-dimensional algebraic varieties (joint work with B. Hassett and A. Pirutka)
+p293
+sba(istdEvent
+stdEvent
+p294
+(dp295
+g3
+I9
+sg5
+VSecular Rights in the Middle East
+p296
+sg7
+VFaisal Saeed Al Mutar will discuss religious freedom and the issues facing non-believers in the Middle East???a rapidly growing minority. He will also demonstrate how activists can use their skills to help non-believers in closed societies.\u000a\u000aAl Mutar is an Iraqi-born, ex-Muslim refugee. He is a writer and advocate for religious freedom and the Middle East community manager for the human rights crowdsourcing platform movements.org.\u000a\u000aThis event is co-sponsored by the Secular Society of MIT and the Humanist Hub.
+p297
+sba(istdEvent
+stdEvent
+p298
+(dp299
+g3
+I5
+sg5
+VMind-Body-Breath: Community Meditation
+p300
+sg7
+VCommunity Meditation - come learn about the effect of the breath on the mind and body, along with fun discussion on mindfulness and meditation. See the following event for discussion on Yoga and food.\u000a\u000aRSVP: https://docs.google.com/forms/d/1etpHUp3vyCf3gxNFgNcsubQ-sucpA82n4B_CBxui1LE/viewform?c=0&amp;w=1
+p301
+sba(istdEvent
+stdEvent
+p302
+(dp303
+g3
+I7
+sg5
+VEnd of Term Social
+p304
+sg7
+VPlease join us for the Math Department's End-of-Term Social!\u000a\u000aThere will be an awards presentation to our graduate students.\u000a\u000aCome celebrate the end of the year with delicious food!
+p305
+sba(istdEvent
+stdEvent
+p306
+(dp307
+g3
+I6
+sg5
+VThe meaning of Yoga
+p308
+sg7
+VAn in depth understanding of Yoga by watching the 'Patanjali Yoga sutras' discussion, along with free food at 6:45.\u000a\u000aRSVP: https://docs.google.com/forms/d/1etpHUp3vyCf3gxNFgNcsubQ-sucpA82n4B_CBxui1LE/viewform?c=0&amp;w=1
+p309
+sba(istdEvent
+stdEvent
+p310
+(dp311
+g3
+I7
+sg5
+Vmit e-club: regular, weekly 6pm tuesday new tech start-up presentations ...
+p312
+sg7
+Vregular, weekly, tuesday 6pm new tech start-up presentations by students, faculty, staff & alums (plus a very few select others) of new science, engineering & technology start-up thinking, ideas & updates of ongoing efforts & projects; occasional post-mortems of very interesting, useful-to-know crashes; pathologically relevant founder behaviours; more ...
+p313
+sba(istdEvent
+stdEvent
+p314
+(dp315
+g3
+I9
+sg5
+VMindful Study Break: Slow Looking Art Workshop at the List
+p316
+sg7
+VJoin MIT List Visual Arts Center staff for a mindful, artful workshop that aims to reduce stress by looking, discussing, and sketching. Take a moment for self-care and join in this study break to spend time in the galleries with museum staff and students. This workshop focuses on Mark Di Suvero's bold, colorful sculpture "Aesop's Fables, II" (2005). Look closely to untangle the active, industrial sculpture, then enjoy guided sketching in the space. All materials for sketching are provided. \u000a\u000aAbout the Workshops\u000a\u000aSlow Looking Art Workshops are a series of interventions at the List Visual Arts Center that harness the natural role of art to provoke reflection and contemplation. The List invites MIT students to slow down, observe and reflect among peers, and create drawings in a quiet environment. Using the art exhibitions on display in our galleries and across the Institute, an experienced facilitator and guest co-facilitator will lead students in a "slow looking" activity (group discussion of one carefully selected work of art) followed by guided sketching using quality art supplies.
+p317
+sba(istdEvent
+stdEvent
+p318
+(dp319
+g3
+I5
+sg5
+VTai Chi
+p320
+sg7
+VTai Chi Club meeting, led by instructor Huan.\u000aLocated in the Du Pont Multicourt #1
+p321
+sba(istdEvent
+stdEvent
+p322
+(dp323
+g3
+I7
+sg5
+VMIT Aikido Club ( A Japanese Martial Art)
+p324
+sg7
+VAikido is a Martial art that emphasizes blending with the attacker, rather than confronting the attacker with hard techniques such as punches and kicks.\u000a\u000aBeginners and MIT Affiliates are always welcome to come by and observe a practice or join us on the mat. On Tuesdays and Wednesdays and we offer a Beginners class from 5:30 to 6pm.Regular class follows from 6pm -7pm
+p325
+sba(istdEvent
+stdEvent
+p326
+(dp327
+g3
+I2
+sg5
+VShe's the Man: A Drag Queen Performance by Miss Shuga Cain
+p328
+sg7
+VShe's the Man: A Drag Queen Performance by Miss Shuga Cain\u000aSponsored by The de Florez Fund for Humor\u000a\u000a\u000a"She's a little wisp of love!" as one drag queen put it. Hailing from New York City, and winner of NYC's Ultimate Drag Off, Miss Shuga Cain arrives at MIT in all her extravagant glory. Live-singing, a fabulous showgirl, and laugh-out-loud funny, she's just a little Latin boy in drag tryna make it in this world!\u000a\u000aTuesday, May 10, 2016, 6:00PM\u000aKresge Little Theatre\u000aFREE and open to MIT students, faculty, and staff\u000a\u000a*Donations still welcome for the Human Rights Campaign (HRC), which Miss Shuga Cain represented at the 2016 Boston Marathon!
+p329
+sba(istdEvent
+stdEvent
+p330
+(dp331
+g3
+I2
+sg5
+VPsychic Migrations
+p332
+sg7
+VDirected by veteran surf filmmaker Ryan Thomas and shot on location in the West Indies, East Indies, Australia, Polynesia, and Central and South America, the film weaves the physical expression of riding a rousing score of waves with a cerebral odyssey through the scapes and textures travelled to find them.
+p333
+sba(istdEvent
+stdEvent
+p334
+(dp335
+g3
+I2
+sg5
+VMiddle Eastern Dance Class
+p336
+sg7
+VAre you fascinated by the diversity of expression of this perhaps oldest and most feminine of dance forms? Come try it out Tuesday evenings, 7:30 - 9:00. To join, contact Loni Butera at (617) 491-5657, or loni@mit.edu
+p337
+sba(istdEvent
+stdEvent
+p338
+(dp339
+g3
+I2
+sg5
+VFree Surfing Movie - "Psychic Migrations" by Volcom
+p340
+sg7
+VTo kick off MIT's new surfing program, ODGE Graduate Student Life Grants, MITOC and MIT LSC are pleased to bring you "Psychic Migrations" by Volcom. Come by and learn more about MIT's new program for beginners and advanced surfers.
+p341
+sba(istdEvent
+stdEvent
+p342
+(dp343
+g3
+I7
+sg5
+VLife Partners Performs Live on WMBR's Pipeline
+p344
+sg7
+V<a href="https://lifepartners.bandcamp.com/">Life Partners</a> will play live from Studio A on Pipeline!
+p345
+sba(istdEvent
+stdEvent
+p346
+(dp347
+g3
+I5
+sg5
+VACF Community Group
+p348
+sg7
+VGet plugged into a vibrant and life-giving community by spending time together in scripture and discussing faith. All are welcome!
+p349
+sba.

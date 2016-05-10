@@ -1,0 +1,8 @@
+Script started on Sun May  8 22:55:50 2016
+[?1034hbash-3.2$ exit()
+> exit()
+bash: syntax error near unexpected token `exit'
+bash-3.2$ bas[K[K[Kexit
+exit
+
+Script done on Sun May  8 22:56:00 2016

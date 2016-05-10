@@ -1,0 +1,13 @@
+import urllib2
+import json
+import sys
+
+address = sys.argv[1]
+# Given an address that corresponds to a json, downloads the json and returns it as a dictionary
+response = urllib2.urlopen(address)
+data = json.load(response)
+# Now save it
+filename = '/'.join(['./data', sys.argv[2]])
+fileToBeSaved = open(filename, 'w')
+json.dump(data, fileToBeSaved)
+fileToBeSaved.close()
